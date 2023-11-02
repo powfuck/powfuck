@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, i'm powfu haruchiyo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">Hi there, i'm powfu haruchiyo <img src="[https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif](https://i.imgur.com/0r1Oea1.gif)" width="40px" alt=""><br></h1>
 
 <p align="center">
   <a href="https://github.com/powfuck">
