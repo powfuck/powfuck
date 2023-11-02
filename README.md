@@ -1,46 +1,12 @@
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+
 <p align="center">
-
-  
-<br>
-  
-
-
-
-
- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
+  <a href="https://github.com/Fariiid-M">
+    <img src="https://i.ibb.co/qBZkVkf/gif.gif" alt="gif" border="0">
+    <h4 align="center">
+ <a href="https://wa.me/6285890441472" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a> <a href="https://www.instagram.com/faridmhrdkaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</h4>
 </p>
-
-```yaml
-name: Powfu Haruchiyo
-located_in: [Yokohama]
-from: [Japan]
-Currently Working on: GrapQL Request's
-job: Solutions-driven Professional
-technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies", "NLP Techniques"]
-currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend", 
-Personal Bots with selenium in complex tasks", "Custom API building"]
-ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
-hobbies: ["Basketball", "Competitive Gaming"]
-```
-[![Generate Snake](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml/badge.svg)](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml)
-![snake gif](https://github.com/alicemist/alicemist/blob/output/github-snake-dark.svg)
-<hr>
-<p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=alicemist&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
-
-![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
-
-![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
-![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
-<hr>
-
-<hr>
-
-<!--START_SECTION:WAKA-->
 
 ```txt
 From: 09 April 2023 - To: 01 November 2023
