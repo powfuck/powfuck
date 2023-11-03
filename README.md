@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, i'm Powfu Haruchiyo <img src="https://w7.pngwing.com/pngs/910/897/png-transparent-twitter-verified-badge-hd-logo.png" width="40px" alt=""><br></h1>
+<h1 align="center">Hi there, i'm Powfu Haruchiyo <img src="" width="40px" alt=""><br></h1>
 
 <p align="center">
   <a href="https://github.com/powfuck">
