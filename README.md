@@ -12,10 +12,3 @@
 
 
  Last Updated on 02/11/2023 16:32:06 UTC
-<!--END_SECTION:time-->
-
-Wanna play?
-
-<div align=center>
-  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>
